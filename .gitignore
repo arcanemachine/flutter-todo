@@ -6,10 +6,6 @@ linux/
 web/
 windows/
 
-# custom: remove artifacts created when running 'flutter create' . in project directory
-/flutter_hello/.gitignore
-/flutter_hello/README.md
-
 
 # Miscellaneous
 *.class
